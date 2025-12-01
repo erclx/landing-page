@@ -8,7 +8,7 @@ A simple, static landing page project created to practice and showcase fundament
 
 ## 🚀 Live Demo
 
-[Live Demo](https://ar1ze.github.io/odin-landing-page/)
+[Live Demo](https://erclx.github.io/odin-landing-page/)
 
 -----
 
